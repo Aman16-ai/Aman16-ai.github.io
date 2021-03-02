@@ -1,4 +1,5 @@
 console.log("welcome to notes app. This app is purely developed in javascript and html/css");
+console.log("This app is developed by Aman saxena");
 showNotes();
 function addfun() {
     let text = document.getElementById('addtxt').value;
